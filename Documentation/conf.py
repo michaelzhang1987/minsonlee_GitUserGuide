@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 #
-# minsonlee_Git使用指南 documentation build configuration file, created by
+# 倔金小册-Git原理详解及使用指南 documentation build configuration file, created by
 # sphinx-quickstart on Sun Dec 29 10:35:01 2019.
 #
 # This file is execfile()d with the current directory set to its
@@ -60,7 +60,7 @@ source_suffix = ['.rst', '.md']
 master_doc = 'index'
 
 # General information about the project.
-project = u'minsonlee_Git使用指南'
+project = u'倔金小册-Git原理详解及使用指南'
 copyright = '2020, Geek_Michael'
 author = u'Geek\_Michael'
 
@@ -240,8 +240,8 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, u'minsonlee_Git使用指南.tex', u'minsonlee_Git使用指南',
-    u'Geek\_Michael', 'manual'),
+    (master_doc, u'倔金小册-Git原理详解及使用指南.tex', u'倔金小册-Git原理详解及使用指南',
+     u'Geek\_Michael', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
@@ -270,8 +270,8 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, u'minsonlee_Git使用指南', u'minsonlee_Git使用指南',
-    [author], 1)
+    (master_doc, u'倔金小册-Git原理详解及使用指南', u'倔金小册-Git原理详解及使用指南',
+     [author], 1)
 ]
 
 # If true, show URL addresses after external links.
@@ -284,9 +284,9 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, u'minsonlee_Git使用指南', u'minsonlee_Git使用指南',
-    author, u'Geek\_Michael', 'One line description of project.',
-    'Miscellaneous'),
+    (master_doc, u'倔金小册-Git原理详解及使用指南', u'倔金小册-Git原理详解及使用指南',
+     author, u'Geek\_Michael', 'One line description of project.',
+     'Miscellaneous'),
 ]
 
 # Documents to append as an appendix to all manuals.
